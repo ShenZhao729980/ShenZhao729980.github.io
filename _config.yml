@@ -1,7 +1,7 @@
 # Site settings
 title: BY Blog
 SEOTitle: 未烬的博客 | BY Blog
-header-img: img/post-bg-desk.jpg
+header-img: img/1.jpg
 email: szbbzs@whu.edu.cn
 description: "不问鬼神事，静登铜雀台。"
 keyword: "BY, BY Blog, 未烬的博客, ShanZinek, 未烬"
@@ -12,18 +12,17 @@ github_repo: "https://github.com/ShenZhao729980/ShenZhao729980.github.io" # you 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "全世界无产者，联合起来！"
-sidebar-avatar: /img/avatar-m      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/1.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
 # SNS settings
 RSS: false
-weibo_username:     Shan未烬
+weibo_username:
 zhihu_username:     
 github_username:    
 facebook_username:  
 jianshu_username:   
-#twitter_username:   qiubaiying
 
 
 
@@ -60,19 +59,19 @@ kramdown:
 # disqus_username: qiubaiying
 
 # Gitalk
-gitalk:
-  enable: true    #是否开启Gitalk评论
-  clientID: f2c84e7629bb1446c1a4                            #生成的clientID
-  clientSecret: ca6d6139d1e1b8c43f8b2e19492ddcac8b322d0d    #生成的clientSecret
-  repo: qiubaiying.github.io    #仓库名称
-  owner: qiubaiying    #github用户名
-  admin: qiubaiying
-  distractionFreeMode: true #是否启用类似FB的阴影遮罩
+#gitalk:
+  #enable: true    #是否开启Gitalk评论
+ # clientID: f2c84e7629bb1446c1a4                            #生成的clientID
+  #clientSecret: ca6d6139d1e1b8c43f8b2e19492ddcac8b322d0d    #生成的clientSecret
+#  repo: qiubaiying.github.io    #仓库名称
+ # owner: qiubaiying    #github用户名
+ # admin: qiubaiying
+ # distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
 # Google Analytics
-ga_track_id: 'UA-90855596-1'            # Format: UA-xxxxxx-xx
-ga_domain: qiubaiying.top               # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
+#ga_track_id: 'UA-90855596-1'            # Format: UA-xxxxxx-xx
+#ga_domain: qiubaiying.top               # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
 
 
 
