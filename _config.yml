@@ -1,17 +1,17 @@
 # Site settings
-title: BY Blog
-SEOTitle: 未烬的博客 | BY Blog
-header-img: img/1.jpg
+title: Shan Blog
+SEOTitle: 未烬的博客 | Shan Blog
+header-img: img/post-bg-rwd.jpg
 email: szbbzs@whu.edu.cn
 description: "不问鬼神事，静登铜雀台。"
-keyword: "BY, BY Blog, 未烬的博客, ShanZinek, 未烬"
+keyword: "Shan, Shan Blog, 未烬的博客, ShanZinek, 未烬"
 url: "http://ShenZhao729980.github.io/"      # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/ShenZhao729980/ShenZhao729980.github.io" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "全世界无产者，联合起来！"
+sidebar-about-description: "不问鬼神事，静登铜雀台。"
 sidebar-avatar: /img/1.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
